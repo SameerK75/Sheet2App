@@ -1,0 +1,20 @@
+.header {
+    overflow: hidden;
+    background-color: #f1f1f1;
+    padding: 50px 75px;
+    box-shadow: 10px 5px 5px grey;
+  }
+  
+  .header Button {
+    float: left;
+    background-color: black;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 4px;
+  }
+  
+  .header-right {
+    float: right;
+  }
